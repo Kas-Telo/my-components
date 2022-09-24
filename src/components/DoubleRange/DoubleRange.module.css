@@ -1,12 +1,12 @@
 :root {
-    --width-slider: 200px;
-    --width-range-input: 212px;
+    --width-slider: 141px;
+    --width-range-input: 153px;
 }
 .container {
     box-sizing: border-box;
     padding: 0 0 0 6px;
     display: inline-block;
-    min-width: 300px;
+    min-width: 155px;
     max-width: 100vh;
 }
 .slider {
@@ -24,7 +24,7 @@
 }
 .rangeInput {
     position: relative;
-    left: -6px;
+    left: -5px;
 }
 .rangeInput input {
     box-sizing: border-box;

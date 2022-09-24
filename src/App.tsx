@@ -16,8 +16,8 @@ const App = () => {
             <div style={{margin: '20px 0 0'}}>
                 <Toggle/>
             </div>
-            <div>
-                <InputSearch/>
+            <div style={{margin: '20px 0 0'}}>
+                <InputSearch />
             </div>
         </div>
     );
